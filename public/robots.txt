@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://gyani.umkmkremsel.shop
+
+# Sitemaps
+Sitemap: https://gyani.umkmkremsel.shop/sitemap.xml
