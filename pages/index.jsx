@@ -189,9 +189,9 @@ export default function Home() {
               className="rounded-2xl h-64 sm:h-80"
             >
               {[
-                "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&h=400&fit=crop",
-                "/images%20(1).jpeg",
-                "/ramen.jpeg"
+                "/GYANIS%206.jpg",
+                "/GYANIS%207.jpg",
+                "/GYANIS%205.jpg"
               ].map((src, i) => (
                 <SwiperSlide key={i}>
                   <div className="relative h-64 sm:h-80">
@@ -363,7 +363,7 @@ export default function Home() {
       <footer className="bg-gray-900 text-white py-6 sm:py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 text-center">
           <div className="flex items-center justify-center gap-3 sm:gap-4 mb-3 sm:mb-4">
-            <div className="w-6 h-6 sm:w-8 sm:h-8 bg-gradient-to-br from-amber-50 to-orange-50 rounded-full flex items-center justify-center overflow-hidden">
+            <div className="w-6 h-6 sm:w-8 sm:h-8 bg-gradient-to-br from-gray-900 to-gray-900 rounded-full flex items-center justify-center overflow-hidden">
               <img
                 src="/LOGO%20AJA.png"
                 alt="Logo UMKM Kultura"
