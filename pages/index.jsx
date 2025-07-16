@@ -60,7 +60,7 @@ export default function Home() {
   }, []);
 
   const handleWhatsAppOrder = (productName = "") => {
-    const phone = "+6281333955548";
+    const phone = "6281333955548";
     const message = productName
       ? `Halo! Saya ingin bertanya mengenai produk ${productName}, bisa dibantu?`
       : "Halo! Saya ingin bertanya tentang produk UMKM GYANI'S HOUSE.";
